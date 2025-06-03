@@ -1,2 +1,2 @@
 # IJCAI2025
-IJCAI23 toturial: Towards Low-Distortion Graph Representation Learning
+IJCAI23 tutorial: Towards Low-Distortion Graph Representation Learning
